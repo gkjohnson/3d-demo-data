@@ -1,6 +1,6 @@
 ### GLTF Demo Models
 
-Set of gltf models to load in online demos and examples.
+Set of gltf models to load in online demos and examples. Models not intended for general distribution. See source links to retrieve files.
 
 Models compressed using the following `gltfpack` command:
 
