@@ -1,4 +1,4 @@
-Interior Scene by "Allay Design" on Sketchfab
+Interior Scene model by "Allay Design" on Sketchfab
 
 **Source**
 
