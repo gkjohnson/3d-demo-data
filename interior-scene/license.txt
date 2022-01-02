@@ -1,0 +1,11 @@
+Model Information:
+* title:	Interior Scene
+* source:	https://sketchfab.com/3d-models/interior-scene-45ddbbc4c2dc4f8ca9ed99da9a78326a
+* author:	Allay Design (https://sketchfab.com/Alister.Dsouza)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Interior Scene" (https://sketchfab.com/3d-models/interior-scene-45ddbbc4c2dc4f8ca9ed99da9a78326a) by Allay Design (https://sketchfab.com/Alister.Dsouza) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
