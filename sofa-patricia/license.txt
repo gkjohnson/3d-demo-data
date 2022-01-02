@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sofa Patricia
+* source:	https://sketchfab.com/3d-models/sofa-patricia-a5ed5a1f630b4d689b2d65e5ae8b56fa
+* author:	VirtualBG (https://sketchfab.com/undereality)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sofa Patricia" (https://sketchfab.com/3d-models/sofa-patricia-a5ed5a1f630b4d689b2d65e5ae8b56fa) by VirtualBG (https://sketchfab.com/undereality) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
