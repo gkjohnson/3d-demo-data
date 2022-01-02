@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lamborghini Huracan GT3 - Squadra Corse SDC
+* source:	https://sketchfab.com/3d-models/lamborghini-huracan-gt3-squadra-corse-sdc-648132e9899844c69b89afb1f1585353
+* author:	SDC (https://sketchfab.com/3Duae)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lamborghini Huracan GT3 - Squadra Corse SDC" (https://sketchfab.com/3d-models/lamborghini-huracan-gt3-squadra-corse-sdc-648132e9899844c69b89afb1f1585353) by SDC (https://sketchfab.com/3Duae) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
