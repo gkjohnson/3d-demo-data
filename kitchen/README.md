@@ -1,4 +1,4 @@
-kitchen assets by "P_4_N_D_A" on Sketchfab
+Kitchen Assets model by "P_4_N_D_A" on Sketchfab
 
 **Source**
 
