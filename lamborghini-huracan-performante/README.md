@@ -1,4 +1,4 @@
-Lamborghini Huracan Performante by "DJS" on Sketchfab
+Lamborghini Huracan Performante model by "DJS" on Sketchfab
 
 **Source**
 
