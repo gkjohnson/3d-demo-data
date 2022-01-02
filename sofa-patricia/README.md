@@ -1,4 +1,4 @@
-Sofa Patricia by "VirtualBG" on SketchFab
+Sofa Patricia model by "VirtualBG" on SketchFab
 
 **Source**
 
