@@ -1,4 +1,4 @@
-Lamborghini Huracan GT3 - Squadra Corse SDC by "SDC PERFORMANCE" on Sketchfab
+Lamborghini Huracan GT3 - Squadra Corse SDC model by "SDC PERFORMANCE" on Sketchfab
 
 
 **Source**
