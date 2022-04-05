@@ -1,0 +1,11 @@
+Model Information:
+* title:	Gelatinous Cube
+* source:	https://sketchfab.com/3d-models/gelatinous-cube-e08385238f4d4b59b012233a9fbdca21
+* author:	glenatron (https://sketchfab.com/glenatron)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Gelatinous Cube" (https://sketchfab.com/3d-models/gelatinous-cube-e08385238f4d4b59b012233a9fbdca21) by glenatron (https://sketchfab.com/glenatron) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
