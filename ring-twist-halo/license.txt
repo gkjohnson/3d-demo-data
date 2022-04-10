@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ring Twist Halo
+* source:	https://sketchfab.com/3d-models/ring-twist-halo-4182ebeb08954f3aae665ca61ed1ad44
+* author:	AzTiZ (https://sketchfab.com/aztiz)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ring Twist Halo" (https://sketchfab.com/3d-models/ring-twist-halo-4182ebeb08954f3aae665ca61ed1ad44) by AzTiZ (https://sketchfab.com/aztiz) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
