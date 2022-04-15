@@ -1,0 +1,11 @@
+Model Information:
+* title:	PigMan
+* source:	https://sketchfab.com/3d-models/pigman-f7597d3af7224f7e890710ac27d4d597
+* author:	Grigorii Ischenko (https://sketchfab.com/grigoriyarx)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "PigMan" (https://sketchfab.com/3d-models/pigman-f7597d3af7224f7e890710ac27d4d597) by Grigorii Ischenko (https://sketchfab.com/grigoriyarx) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
