@@ -1,4 +1,6 @@
-### 3D Demo Models
+## 3D Demo Data
+
+### Models
 
 Set of gltf models to load in online demos and examples. Models not intended for general distribution. See source links to retrieve files.
 
@@ -8,7 +10,10 @@ Models compressed using the following `gltfpack` command:
 gltfpack -i [modelname].gltf -o [modelname].glb -noq -cc
 ```
 
-### Model Credits / Sources
+#### Model Credits / Sources
 
 Original source link provided in folder of every model. See source for copyright, license, and usage terms.
 
+### HDRI
+
+HDRI files are from [Polyhaven.com](https://polyhaven.com/)
