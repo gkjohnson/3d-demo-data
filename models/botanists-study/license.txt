@@ -1,0 +1,11 @@
+Model Information:
+* title:	The Botanist's Study
+* source:	https://sketchfab.com/3d-models/the-botanists-study-8b7b5743b1c848ed8ea58f5518c44e7e
+* author:	riikkakilpelainen (https://sketchfab.com/riikkakilpelainen)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "The Botanist's Study" (https://sketchfab.com/3d-models/the-botanists-study-8b7b5743b1c848ed8ea58f5518c44e7e) by riikkakilpelainen (https://sketchfab.com/riikkakilpelainen) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
