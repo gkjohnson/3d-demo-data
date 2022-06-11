@@ -1,0 +1,11 @@
+Model Information:
+* title:	Japanese Bridge Garden
+* source:	https://sketchfab.com/3d-models/japanese-bridge-garden-d122e17593eb4012913cde927486d15a
+* author:	kristenlee (https://sketchfab.com/kristenlee)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Japanese Bridge Garden" (https://sketchfab.com/3d-models/japanese-bridge-garden-d122e17593eb4012913cde927486d15a) by kristenlee (https://sketchfab.com/kristenlee) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
