@@ -1,0 +1,11 @@
+Model Information:
+* title:	The Botanist's Greenhouse
+* source:	https://sketchfab.com/3d-models/the-botanists-greenhouse-6dd7ded0f84648e791729c797c7440c5
+* author:	riikkakilpelainen (https://sketchfab.com/riikkakilpelainen)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "The Botanist's Greenhouse" (https://sketchfab.com/3d-models/the-botanists-greenhouse-6dd7ded0f84648e791729c797c7440c5) by riikkakilpelainen (https://sketchfab.com/riikkakilpelainen) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
