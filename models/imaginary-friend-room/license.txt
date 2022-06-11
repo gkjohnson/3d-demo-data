@@ -1,0 +1,11 @@
+Model Information:
+* title:	Boy Room
+* source:	https://sketchfab.com/3d-models/boy-room-19035fc846034003b76e2914ba6dd7a6
+* author:	Iman Aliakbar (https://sketchfab.com/Iman.Aliakbar)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Boy Room" (https://sketchfab.com/3d-models/boy-room-19035fc846034003b76e2914ba6dd7a6) by Iman Aliakbar (https://sketchfab.com/Iman.Aliakbar) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
