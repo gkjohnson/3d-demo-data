@@ -1,0 +1,11 @@
+Model Information:
+* title:	Terrarium Bots (@nerdscribbles)
+* source:	https://sketchfab.com/3d-models/terrarium-bots-nerdscribbles-bf9a19aae6914a2c866311887edc8b3e
+* author:	nyancube (https://sketchfab.com/N01506)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Terrarium Bots (@nerdscribbles)" (https://sketchfab.com/3d-models/terrarium-bots-nerdscribbles-bf9a19aae6914a2c866311887edc8b3e) by nyancube (https://sketchfab.com/N01506) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
