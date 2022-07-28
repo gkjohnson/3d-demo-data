@@ -1,0 +1,11 @@
+Model Information:
+* title:	Steampunk Robot
+* source:	https://sketchfab.com/3d-models/steampunk-robot-dd1da8b32b0b43ad8c4060c86dc8d93c
+* author:	Benedict Chew (https://sketchfab.com/benedict416)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Steampunk Robot" (https://sketchfab.com/3d-models/steampunk-robot-dd1da8b32b0b43ad8c4060c86dc8d93c) by Benedict Chew (https://sketchfab.com/benedict416) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
