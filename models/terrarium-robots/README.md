@@ -1,4 +1,4 @@
-"Terrarium Robots" by nerdcube on Sketchfab.
+"Terrarium Robots" by nyancube on Sketchfab.
 
 **Source**
 
