@@ -1,0 +1,11 @@
+Model Information:
+* title:	colourdrafts(Simon Stalenhag scene)
+* source:	https://sketchfab.com/3d-models/colourdraftssimon-stalenhag-scene-8728b0b42c4e4fd7889d34a76966def1
+* author:	ganzhugav (https://sketchfab.com/ganzhugav)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "colourdrafts(Simon Stalenhag scene)" (https://sketchfab.com/3d-models/colourdraftssimon-stalenhag-scene-8728b0b42c4e4fd7889d34a76966def1) by ganzhugav (https://sketchfab.com/ganzhugav) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
