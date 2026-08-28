@@ -25,3 +25,4 @@ Every scene includes the camera it was authored with. Area lights are converted 
 | salle-de-bain.glb | Salle de bain | nacimus | CC BY 3.0 |
 | veach-bidir-room.glb | Veach, Bidir Room | Benedikt Bitterli | CC0 |
 | white-room.glb | The White Room | Jay-Artist | CC BY 3.0 |
+| wooden-staircase.glb | The Wooden Staircase | Wig42 | CC BY 3.0 |
