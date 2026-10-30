@@ -1,0 +1,11 @@
+Model Information:
+* title:	Super Human
+* source:	https://sketchfab.com/3d-models/super-human-7aa58e978b9f4357b8e73d8e0440c896
+* author:	Davyd Vidiger (https://sketchfab.com/cryunreal)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Super Human" (https://sketchfab.com/3d-models/super-human-7aa58e978b9f4357b8e73d8e0440c896) by Davyd Vidiger (https://sketchfab.com/cryunreal) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
