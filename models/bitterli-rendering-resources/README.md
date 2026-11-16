@@ -2,7 +2,7 @@
 
 Scenes from [Benedikt Bitterli's rendering resources](https://benedikt-bitterli.me/resources/).
 
-Each file is optimized with the following, which keeps the scene graph and geometry intact while compressing meshes with Draco and textures as WebP:
+Each scene is converted from its Mitsuba 3 version, then optimized with the following, which keeps the scene graph and geometry intact while compressing meshes with Draco and textures as WebP:
 
 ```
 gltf-transform optimize <input> <output> \
@@ -10,7 +10,11 @@ gltf-transform optimize <input> <output> \
 	--compress draco --texture-compress webp
 ```
 
-Every scene includes the camera it was authored with. Area lights are converted to emissive geometry, and environment map lighting is not carried over.
+Every scene includes the camera it was authored with. Environment map lighting is not carried over.
+
+Area lights are converted to single sided emissive geometry, matching Mitsuba's area emitters, which only emit from their front face.
+
+Mitsuba's `nonlinear` plastics account for light bouncing between the coat and the diffuse base, which darkens and saturates the color. glTF has no equivalent, so the resulting diffuse albedo, `R * ( 1 - Fdr ) / ( 1 - R * Fdr )` with `Fdr` the coat's internal diffuse Fresnel reflectance, is baked into the base color and textures.
 
 | File | Scene | Author | License |
 | --- | --- | --- | --- |
