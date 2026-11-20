@@ -1,0 +1,11 @@
+Model Information:
+* title:	Kitchen
+* source:	https://sketchfab.com/3d-models/kitchen-d21b397213554f689a6bb89255d155be
+* author:	leha_pu (https://sketchfab.com/leha_pu)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Kitchen" (https://sketchfab.com/3d-models/kitchen-d21b397213554f689a6bb89255d155be) by leha_pu (https://sketchfab.com/leha_pu) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
